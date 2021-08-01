@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LetterNumberExample</string>
+    <string name="type_number">Type a numer</string>
+</resources>
