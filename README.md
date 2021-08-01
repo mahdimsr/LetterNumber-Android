@@ -23,6 +23,12 @@ it returns string value which is your number as letter
 
 ## Install
 ```groovy
+    allprojects {
+		repositories {
+			maven { url 'https://www.jitpack.io' }
+		    }
+	    }
+
     dependencies {
     	        implementation 'com.github.mahdimsr:LetterNumber-Android:version'
     	}
